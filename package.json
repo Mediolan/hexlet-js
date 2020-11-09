@@ -1,0 +1,21 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "My firts project on Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mediolan/hexlet-js.git"
+  },
+  "author": "Denis Sigeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mediolan/hexlet-js/issues"
+    , "email": "milan00@mail.ru"
+  },
+  "homepage": "https://github.com/Mediolan/hexlet-js#readme"
+}
