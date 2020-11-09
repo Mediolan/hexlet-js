@@ -14,8 +14,11 @@
   "author": "Denis Sigeev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mediolan/hexlet-js/issues"
-    , "email": "milan00@mail.ru"
+    "url": "https://github.com/Mediolan/hexlet-js/issues",
+    "email": "milan00@mail.ru"
   },
-  "homepage": "https://github.com/Mediolan/hexlet-js#readme"
+  "homepage": "https://github.com/Mediolan/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
